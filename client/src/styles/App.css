@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --primary-color: #4a90e2;
+  --secondary-color: #50e3c2;
+  --dark-color: #2c3e50;
+  --light-color: #ecf0f1;
+  --background-color: #f4f7f6;
+  --white-color: #ffffff;
+  --danger-color: #e74c3c;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--background-color);
+  color: #333;
+}
+
+main {
+  padding-top: 80px; /* Space for the fixed navbar */
+}

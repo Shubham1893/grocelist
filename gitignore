@@ -1,0 +1,8 @@
+# Ignore Node modules and environment files
+node_modules/
+.env
+client/node_modules/
+backend/node_modules/
+dist/
+build/
+.DS_Store
